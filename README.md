@@ -1,1 +1,48 @@
-# past-present-future
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<meta name="viewport" content="width-device-width, initia-scale=1">
+<link href="https://fonts.googleapis.com/css?family=Chivo" rel="stylesheet">
+<link rel="stylesheet" href="main.css">
+
+<title> Val's Past, Present, and Future!</title>
+</head>
+
+<body>
+
+<h1>Val's Past, Present, and Future!</h1>
+
+<h2>Past</h2>
+<img class="right" src="img/disney_cruise.jpg" alt="Disney Cruise">
+<p>Let's go back in time, shall we? Let's start where I was born, I was born in <a href="http://www.townofmorristown.org/">Morristown, New Jersey.</a> I was born on Fathers Day which is pretty cool this day was on June 19, 2003. After me being born my mom decided to go to Colombia South America because thats where my entire family is. My mom was only in New Jersey to visit and I guess she just was passing by, I would have been born in Colombia though. I lived in Colombia until I had to start Pre-K that was when I moved to South Carolina after pre-k in South Carolina, I moved back to New Jersey and I lived there for about two years maybe three. I moved back to South Carolina when I was starting 2nd Grade in August from then on I stayed here In Greenville.</p>
+<h3>5 Things from the Past</h3>
+<ol>
+  <li>Had to get stiches twice</li>
+  <li>Got a dog(her name is Dixie)</li>
+  <li>Moved to South Carolina</li>
+  <li>Met Barak Obama</li>
+  <li>Went on a Disney Cruise</li>
+</ol>
+
+<h2>Present</h2>
+<img class="right"src="img/color_vibe.jpg" alt="Color Vibe">
+<img class="right" src="img/birthday_party.png" alt="Birthday">
+<p>Welcome to present day, let me tell you about my family. I have a huge family it's so big that I haven't even met everyone in the family.This year I would say I met about 12 to 15 family members. It's kind of funny because more and more of my family is moving to <a href="http://www.greenvillesc.gov/">Greenville</a> to be with the family when most of my family lives in Colombia. I would like to meet all of my family members one day but that most likely won't happen because even if the majority of my family lives in Colombia there is still a big portion of my family that lives all over the world.</p>
+<p>I have a three year old brother who is really annoying at times but in the end I love him no matter what, I'm about to have a little sister I have a feeling that she might be born sometime this week. Currently I dance, I have been dancing since I was in Kindergarten, we a gala in November every year and it's like the big event so right now we are practicing for the gala.</p>
+
+
+<h2>Future</h2>
+<img class="right"src="img/king_louis_waterfall.jpg" alt="King Louis Waterfall in Costa Rica">
+<p>You might be asking where you are now, well I welcome you to my future! In this section I will be telling you all about the years after you are reading this. What I have I become of in the future well in the future I want to be an anesthesiologist. If you do not know what that is let me explain to you an anesthesiologist are the physicians responsible for administering general or regional anesthesia, which allows surgeons and other physicians to complete invasive procedures with little to no discomfort to the patient. Anesthesiologist also closely monitor a patient's vial signs and critical life functions befor, during, and after a surgery-making rapid on limited data when required. That is what I want to be in the future but you never know what might happen.</p>
+<h3>My Bucket List</h3>
+<ul>
+  <li>Release baby turtles into the ocean</li>
+  <li>Swim in a <a href="http://images.nationalgeographic.com/wpf/media-live/photos/000/685/cache/swimming-jellyfish-lake-palau_68582_990x742.jpg">jellyfish lake</a> in Palau</li>
+  <li>Travel Europe</li>
+  <li>Rappel down King Louis Waterfall in Costa Rica</li>
+  <li>Get a <a href="https://s-media-cache-ak0.pinimg.com/736x/c2/ac/69/c2ac6928248f908e0522b000d97281f3.jpg">Henna</a> tattoo in India</li>
+</ul>
+</body>
+</html>
